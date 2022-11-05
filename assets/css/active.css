@@ -1,0 +1,33 @@
+.active{
+    display: none;
+    text-align: center;
+}
+
+.active__imagem{
+    margin: 10px 0 15px 0;
+}
+
+.active__input{
+    background-color: #262E38;
+    width: 200px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FC7614;
+    text-align: center;
+    padding: 5px;
+}
+
+.active__titulo{
+    font-size: 24px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.active__paragrafo{
+    font-size: 14px;
+    font-weight: 400;
+    color: #969FAD;
+}

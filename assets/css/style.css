@@ -1,0 +1,27 @@
+@import url(../css/principal.css);
+@import url(../css/active.css);
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #131518;
+    font-family: 'Overpass', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+}
+.container{
+    width: 70%;
+    max-width: 320px;
+    margin: 100px auto;
+    background-color: #232A34;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+@media screen and (min-width:800px){
+    .container{
+        max-width: 400px;
+        margin-top: 200px;
+    }
+}
