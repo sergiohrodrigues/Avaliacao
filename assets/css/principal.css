@@ -45,11 +45,12 @@
     cursor: pointer;
 }
 
-.container__lista-item:hover{
-    background-color: #FC7614;
-}
-
-.container__botao:hover{
-    background-color: #FFFFFF;
-    color: #FC7614;
+@media screen and (min-width: 800px){
+    .container__lista-item:hover{
+        background-color: #FC7614;
+    }
+    .container__botao:hover{
+        background-color: #FFFFFF;
+        color: #FC7614;
+    }
 }

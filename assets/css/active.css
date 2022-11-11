@@ -31,3 +31,7 @@
     font-weight: 400;
     color: #969FAD;
 }
+
+.active__button{
+    background-color: #7C8798;
+}
